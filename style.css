@@ -20,20 +20,9 @@ body {
   line-height: 1.44;
   font-weight: 400;
   background-color: #fff;
-
   color: #212529;
   background-color: #f8f9fa;
 }
-
-/*
-header {
-  background-color: yellow;
-  padding: 5rem 2rem;
-}
-
-nav {
-}
-*/
 
 .nav_list {
   list-style: none;
@@ -64,10 +53,7 @@ section {
   margin-bottom: 2rem;
 }
 
-.heading_secondary {
-  margin-bottom: 3rem;
-}
-
+.heading_secondary,
 .section_paragraph {
   margin-bottom: 3rem;
 }
