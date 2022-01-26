@@ -58,8 +58,7 @@ section {
   margin-bottom: 3rem;
 }
 
-.section_illust,
-.section_editing {
+section:nth-of-type(odd) {
   background-color: #fff;
 }
 
